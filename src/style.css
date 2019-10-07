@@ -1,0 +1,51 @@
+/*.contenedor{
+ width: 500px;
+ height: 300px auto;
+ margin: 50px auto;
+ padding: 50px 30px;
+ background-color: #ffffff;
+ border-radius: 20px;
+ box-shadow: 0px 1px 8px 1px rgba(77,77,77,0.47);
+}*/
+
+.flex-container {
+    display: flex;
+    height: 40px;
+    align-items: center;
+  }
+  
+  .flex-container > div {
+    width: 150px;
+    margin: 1px;
+    text-align: left;
+    line-height: 25px;
+  }
+
+  .box-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .box-flex > div {
+    width: 300px;
+    margin: 2px;
+    line-height: 150px;
+    text-align: center;
+  }
+
+  .orderButtons{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .orderButtons > div {
+    width: 120px;
+    margin: center; 
+    line-height: 55px;
+    justify-content: center;
+  }
+
+  /* Hide sirve para poder saber si aparece o desaparece la ventana en JS */
+  .hide {
+    display: none;
+  }
