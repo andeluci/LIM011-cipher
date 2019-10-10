@@ -2,10 +2,12 @@ const empezar = document.getElementById('empezar');
 const root = document.getElementById('root');
 const cifrar = document.getElementById('cifrar');
 const cifrando = document.getElementById('cifrando');
+const contenedor2 = document.getElementById('contenedor2');
 empezar.addEventListener('click', ()=>{
     root.classList.add('hide');
     cifrar.classList.remove('hide');
     cifrando.classList.remove('hide');
+    contenedor2.classList.remove('hide');
 });
 
 let texto = document.getElementById('ingresaContraseña'); 

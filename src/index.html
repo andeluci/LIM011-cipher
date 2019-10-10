@@ -6,18 +6,18 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class='contenedor'>
-    <div id="root">
+      <div id="root" class='contenedor'>
       <h1>Key Aid</h1>
       <br>
-      <p>¡Hola! Sabemos que crear contraseñas es dificil y complicado para algunos. En PasswordAid creamos diferentes contraseñas con una misma palabra segun el nivel de seguridad que tu elijas, para todas tus redes sociales.
-        Ademas, tambien contaras con la opcion de “Descifrar” para recuperar la palabra que utilizaste para esa contraseña.
-        ¿Què esperas?</p>
-        <button id="empezar">Empezar</button>
-    </div>
-
+      <h3>¡Hola!</h3> 
+      <p>Sabemos que crear contraseñas es dificil y complicado para algunos. En <b>Key Aid</b> creamos diferentes contraseñas con una misma palabra segun el nivel de seguridad que tu elijas, <b>para todas tus redes sociales.</b>
+       Ademas, tambien contaras con la opcion de “Recodar Contraseña” para <u>recuperar</u> la palabra que utilizaste para esa contraseña.</p>
+      <h4>¿Que esperas?</h4><br>
+      <button id="empezar">Empezar</button></div>
+    
+    <div id='contenedor2' class="hide">  
     <div id="cifrar" class="hide">
-      <h1>Key Aid</h1>
+      <h1>KeyAid</h1>
       <br>
       <p>Ingresa los datos que deseas cifrar o descifrar</p>
       <br>
@@ -31,28 +31,25 @@
       <option value="Twitter">Twitter</option>
       <option value="LinkedIn">LinkedIn</option>
       </select></div></div>
-    
+       <br>
       <div class="flex-container">
       <div><p>Nivel de Seguridad</p></div>
-      <div><input id="seguridad"></div>
-      </div>
-      <br> <br>
-
-      <div id="cifrando" class="hide">
+      <div><input type="number" id="seguridad"></div></div>
+    </div> <br>
+  
+    <div id="cifrando" class="hide">
       <div class="box-flex">
-      <div><textarea placeholder="Ingresa tu contraseña" cols="50" rows="10" id='ingresaContraseña'></textarea></div>
+      <div><textarea placeholder="Ingresa tu contraseña" cols="35" rows="6" id='ingresaContraseña'></textarea></div>
       <div class="orderButtons">
       <div><button id="nuevaContraseña">Nueva Contraseña</button></div>
       <div><button id="recordarContraseña">Recordar Contraseña</button></div>
       </div>
-      <div><textarea cols="50" rows="10" id='contraseñaCifrada'></textarea></div></div>
-      <div><button class="btn4" onclick="limpiar()">Limpiar</button></div></div> 
-
-
-
+      <div><textarea cols="35" rows="6" id='contraseñaCifrada'></textarea></div></div>
+      <div><button class="btn4" onclick="limpiar()">Limpiar</button></div>
+    </div>
+      </div>
 
     <script src="cipher.js"></script>
     <script src="index.js"></script>
-  </div>
   </body>
 </html>
