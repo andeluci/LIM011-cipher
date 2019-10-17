@@ -14,6 +14,18 @@ Key Aid es una web app que ayuda a usuarios a crear contraseñas seguras con una
 
 ![01](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Pantalla_2_KeyAid.png?raw=true)
 
+## Investigación UX:
+
+### i. Objetivos en relacion con el producto.
+  #### 1. ¿Quienes son los usuarios?
+  Usuarios que utilizan diariamente diferentes plataformas digitales para todas sus comunicaciones o transacciones.
+  #### 2. Objetivos:
+  Creacion de contraseñas seguras segun el nivel de seguridad que el usuario mejor elija.
+
+### 2. Solución a los problemas/necesidades de los usuarios:
+Key Aid brinda una alternativa segura de cifrado de contraseñas, mediante la palabra "Nivel de Seguridad", que genera claves diferentes que solo el usuario sabe como lo realizo. Asi se evita posibles hackeos o robos de perfiles que son comunes en el mundo digital.
+
+### 3. Prototipo en papel:
 
 ## Objetivos de aprendizaje Cipher
 
