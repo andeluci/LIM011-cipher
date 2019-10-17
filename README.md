@@ -12,7 +12,7 @@ Key Aid es una web app que ayuda a usuarios a crear contraseñas seguras con una
 
 ![01](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Pantalla_1_KeyAid.png?raw=true)
 
-![01](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Pantalla_2_KeyAid.png?raw=true)
+![02](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Pantalla_2_KeyAid.png?raw=true)
 
 ## Investigación UX:
 
@@ -26,6 +26,11 @@ Key Aid es una web app que ayuda a usuarios a crear contraseñas seguras con una
 Key Aid brinda una alternativa segura de cifrado de contraseñas, mediante la palabra "Nivel de Seguridad", que genera claves diferentes que solo el usuario sabe como lo realizo. Asi se evita posibles hackeos o robos de perfiles que son comunes en el mundo digital.
 
 ### 3. Prototipo en papel:
+
+![03](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Prototip_KeyAid_1.jpg?raw=true)
+
+![04](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Prototip_KeyAid_2.jpg?raw=true)
+
 
 ## Objetivos de aprendizaje Cipher
 
