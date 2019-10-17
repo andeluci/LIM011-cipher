@@ -16,7 +16,7 @@ Key Aid es una web app que ayuda a usuarios a crear contraseñas seguras con una
 
 ## Investigación UX:
 
-### i. Objetivos en relacion con el producto.
+### 1. Objetivos en relacion con el producto.
   #### 1. ¿Quienes son los usuarios?
   Usuarios que utilizan diariamente diferentes plataformas digitales para todas sus comunicaciones o transacciones.
   #### 2. Objetivos:
@@ -33,9 +33,9 @@ Key Aid brinda una alternativa segura de cifrado de contraseñas, mediante la pa
 
 ### 4. Feedback de las mejoras a realizar:
 
-Hacer los botones de Cifrado y Descifrado entendibles para el usuario, se modifico "Nueva Contraseña" y "Recordar Contraseña".
-Mejorar la paleta de colores del contenedor y botones.
-Poner wallpaper (imagen de fondo) a toda la web app.
+1. Hacer los botones de Cifrado y Descifrado entendibles para el usuario, se modifico "Nueva Contraseña" y "Recordar Contraseña".
+2. Mejorar la paleta de colores del contenedor y botones.
+3. Poner wallpaper (imagen de fondo) a toda la web app.
 
 ### 5. Prototipo final:
 
