@@ -31,6 +31,15 @@ Key Aid brinda una alternativa segura de cifrado de contraseñas, mediante la pa
 
 ![04](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Prototip_KeyAid_2.jpg?raw=true)
 
+### 4. Feedback de las mejoras a realizar:
+
+Hacer los botones de Cifrado y Descifrado entendibles para el usuario, se modifico "Nueva Contraseña" y "Recordar Contraseña".
+Mejorar la paleta de colores del contenedor y botones.
+Poner wallpaper (imagen de fondo) a toda la web app.
+
+### 5. Prototipo final:
+
+
 
 ## Objetivos de aprendizaje Cipher
 
