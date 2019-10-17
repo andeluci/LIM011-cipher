@@ -10,11 +10,12 @@ Key Aid es una web app que ayuda a usuarios a crear contraseñas seguras con una
 
 ## Imagen Principal
 
+![01](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Pantalla_1_KeyAid.png?raw=true)
+
+![01](https://github.com/andeluci/LIM011-cipher/blob/master/src/img/Pantalla_2_KeyAid.png?raw=true)
 
 
-
-
-# Objetivos de aprendizaje Cipher
+## Objetivos de aprendizaje Cipher
 
 A continuación te presentamos los objetivos de aprendizaje de este proyecto. Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplicar** en tu proyecto.
 
